@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hierarchical Dirichlet Process (with Split-Merge Operations)
 
 **********************************************************************
@@ -123,3 +124,6 @@ will produce a topic list with top 10 words selected. For help, run,
 
 print.topics.R
 
+=======
+# HDP
+>>>>>>> 481e66b4658443f97d13a8ceea6a8998d7d5279d
